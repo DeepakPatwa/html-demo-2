@@ -1,3 +1,14 @@
-div{
-	margin: auto;
+body {
+	background-color:#C0C0C0;
+}
+#first{
+	margin-left: 450px;
+}
+#second{
+	border: 2px solid rgb(255, 255, 255);
+	width: 420px;
+	margin: 0;
+}
+blockquote{
+	margin-left: 100px
 }
